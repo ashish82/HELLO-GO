@@ -1,0 +1,7 @@
+port: 9000
+
+MaxIdleConnectionsPerHost: 500
+DialerTimeout: 2000
+ConfigAPITimeoutMillis: 2000
+CommentAPIURL: https://jsonplaceholder.typicode.com/comments
+CommentAPITimeoutMillis: 2000
