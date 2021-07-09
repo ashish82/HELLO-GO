@@ -36,7 +36,8 @@ https://golang.org/dl/go1.16.5.darwin-amd64.pkg
 
 git clone git@github.com:ashish82/HELLO-GO.git
 
-4- go to HELLO-GO directory and build the project 
+4- go to HELLO-GO directory and build the project
+
 ~ go build
 
 5- run the program
